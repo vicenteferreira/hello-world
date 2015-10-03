@@ -1,2 +1,4 @@
 # hello-world
-primeiro script Python
+def hello(): print("primeiro script Python!")
+    
+hello()
